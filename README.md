@@ -57,14 +57,13 @@ This repository contains two main components for the IEEE Cloudify event:
 
   The following diagram illustrates how the client and backend communicate with AWS services:
 
-  ![Cloudify AWS Flow](project/Untitled Diagram.drawio.png)
+  ![Cloudify AWS Flow](project/cloudify_aws_flow.png)
 
 ---
 
 ## Folder Structure
 
-```
-Cloudify/
+```Cloudify/
 │
 ├── iam-users-script/
 │   ├── iam.py
