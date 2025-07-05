@@ -53,6 +53,12 @@ This repository contains two main components for the IEEE Cloudify event:
     - Button to list all uploaded files.
     - Communicates with the Flask API.
 
+- **Architecture Diagram:**
+
+  The following diagram illustrates how the client and backend communicate with AWS services:
+
+  ![Cloudify AWS Flow](project/Untitled Diagram.drawio.png)
+
 ---
 
 ## Folder Structure
